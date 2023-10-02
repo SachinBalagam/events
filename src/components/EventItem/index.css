@@ -1,1 +1,28 @@
 /* Write your CSS here */
+.each-event {
+  margin: 20px;
+}
+.image {
+  width: 250px;
+}
+.name {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 20px;
+  margin: 3px;
+}
+.location {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 11px;
+  margin: 3px;
+}
+.event-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.active {
+  border: 2px solid #2dd4bf;
+  border-radius: 5px;
+}
